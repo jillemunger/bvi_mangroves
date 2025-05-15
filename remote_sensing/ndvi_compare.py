@@ -1,3 +1,7 @@
+# This Python script processes time-series NDVI data (exported as CSVs from Google Earth Engine) 
+# to analyze how vegetation health changed before and after Hurricane Irma (Sept 6, 2017) 
+# at four mangrove sites in the British Virgin Islands
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
